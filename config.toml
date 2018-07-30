@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.veganitee/"
+baseurl = "www.veganitee.com/"
 languageCode = "en-us"
 title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
@@ -13,17 +13,17 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    title = "VeganiTee - Vegan merch for all!"
+    subtitle = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
+    author = "VeganiTee"
+    description = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
-    bodybgcolor = "#f9f9f9"
+    bodybgcolor = "#0006c00"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "Shop it!"
 
     # Footer text
     footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
