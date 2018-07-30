@@ -20,7 +20,7 @@ publishdir = "public"
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
-    bodybgcolor = "#0006c00"
+    bodybgcolor = "#006c00"
 
     # Preview container button text
     buttontext = "Shop it!"
