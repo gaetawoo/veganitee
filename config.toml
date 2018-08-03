@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://www.veganitee.com/"
 languageCode = "en-us"
-title = "Hugrid - Grid Theme For Hugo"
+title = "VeganiTee - Merch for Life"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -13,15 +13,14 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "VeganiTee - Vegan merch for all!"
+    title = "VeganiTee - Merch to share Veganism"
     subtitle = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
     author = "VeganiTee"
     description = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
-    bodybgcolor = "#006c00"
-
+    bodybgcolor = "#ededed"
     # Preview container button text
     buttontext = "Shop it!"
 
