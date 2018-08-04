@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://www.veganitee.com/"
 languageCode = "en-us"
-title = "VeganiTee - Merch for Life"
+title = "VeganiTee - Where your Heart on your Shirt"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -13,19 +13,19 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "VeganiTee - Merch to share Veganism"
-    subtitle = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
+    title = "VeganiTee - Wear your Heart on your Shirt"
+    subtitle = "We're a vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the vegan love. ❤ ️🌱 #GoVegan - [@VeganiTee](https://twitter.com/VeganiTee)"
     author = "VeganiTee"
-    description = "Vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the #vegan love. ❤ ️🌱 #GoVegan"
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    description = "We're a vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the vegan love. ❤ ️🌱 #GoVegan - @VeganiTee"
+    keywords = "vegan, veganism, merch, shirts, retro, family, kindness"
 
     # Body background color
-    bodybgcolor = "#ededed"
+    bodybgcolor = "#fdfdfd"
     # Preview container button text
-    buttontext = "Shop it!"
+    buttontext = "Shop it on Amazon.com!"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made by [@VeganiTee](https://twitter.com/VeganiTee) with [Hugo](http://gohugo.io) and [Hugrid](https://themes.gohugo.io/hugrid/)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
