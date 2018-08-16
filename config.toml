@@ -14,7 +14,8 @@ publishdir = "public"
 [params]
     # Meta
     title = "VeganiTee - Wear your Heart on your Shirt"
-    subtitle = "We're a vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the vegan love. ❤ ️🌱 #GoVegan - [@VeganiTee](https://twitter.com/VeganiTee)"
+    subtitle = "We're a vegan family of seven.<br>We try to live authentically and be kind to others, which includes animals.<br>We make t-shirts to spread the vegan love. ❤ ️🌱 #GoVegan - [@VeganiTee](https://twitter.com/VeganiTee)"
+    disclosure = "<br><h5><i>Amazon Associates Disclosure</i><br>VeganiTee is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program<br> designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](https://www.amazon.com/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=veganitee-20&linkId=15eaf8ee81ba518987b5f432d3b73ba8)</h5>"
     author = "VeganiTee"
     description = "We're a vegan family of seven. We try to live authentically and be kind to others, which includes animals. We make t-shirts to spread the vegan love. ❤ ️🌱 #GoVegan - @VeganiTee"
     keywords = "vegan, veganism, merch, shirts, retro, family, kindness"
